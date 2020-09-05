@@ -1,5 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+![logo](https://github.com/falso-de-verdade/requisitos/raw/feat-logo/logo.jpg)
+
 # Introdução
 
 No projeto será abordado uma solução para o controle de moradores em determinadas dependências de um condomínio, prevenindo assim a aglomeração de pessoas em locais onde o limite de indivíduos deve ser respeitado no momento que estamos vivenciando. Seguindo também as normas do condomínio para que todos os moradores possam usufruir de locais compartilhados.
