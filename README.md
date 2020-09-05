@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-![logo](https://github.com/falso-de-verdade/requisitos/raw/feat-logo/logo.jpg)
+![logo](https://github.com/falso-de-verdade/requisitos/raw/master/logo.jpg)
 
 # Introdução
 
