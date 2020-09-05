@@ -126,9 +126,12 @@ O usuário terá acesso a uma página para efetuar a troca da senha, sendo que e
 - Nova senha
 - Confirmação da senha
 
-17 Lembrar a sessão do usuário com acesso ao sistema pelo navegador - Não essencial
+17 Lembrar a sessão do usuário com acesso ao sistema pelo navegador - Desejável
 
 Tanto morador como síndico após terem seu acesso definido, podem optar por deixar suas credenciais salvas e não precisarem mais digitar seu login e senha para acessar o sistema.
+
+18 Remover morador do condomínio - Essencial
+Um usuário síndico poderá remover um morador de um determinado condomínio, pela visualização de moradores.
 
 ### Requisitos não-funcionais
 
