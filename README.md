@@ -126,9 +126,43 @@ O usuário terá acesso a uma página para efetuar a troca da senha, sendo que e
 - Nova senha
 - Confirmação da senha
 
-17 Lembrar a sessão do usuário com acesso ao sistema pelo navegador - Não essencial
+17 Lembrar a sessão do usuário com acesso ao sistema pelo navegador - Desejável
 
 Tanto morador como síndico após terem seu acesso definido, podem optar por deixar suas credenciais salvas e não precisarem mais digitar seu login e senha para acessar o sistema.
+
+18 Remover morador do condomínio - Essencial
+
+Um usuário síndico poderá remover um morador de um determinado condomínio, pela visualização de moradores.
+
+19 Visualização dos moradores pelo síndico - Essencial
+
+Um usuário síndico visualizará todos os moradores de um determinado condomínio. Especificamente, as informações apresentadas são:
+ - Nome do morador
+ - Data de entrada
+ - Localização do morador
+ - Endereço de e-mail do morador
+
+20 Cadastro do ticket para troca de agendamento - Essencial
+
+Ao tentar agendar uma dependência já alocada naquela data, o morador tem a opção de abrir um ticket para ganhar a vez no agendamento.
+
+21 Morador desiste de um agendamento - Essencial
+
+O morador  poderá desistir de agendamento já realizado. Fazer isso porém implica que outros moradores estarão aptos a agendá-lo, sendo que aqueles que possuirem um ticket para este agendamento, serão informados ao síndico para resolver este conflito. A única exceção é caso apenas um morador tenha o ticket para o agendamento em questão, sendo que assim o morador é alocado automaticamente.
+
+22 Visualização dos conflitos de novos agendamentos pelo sindico - Essencial
+
+O síndico visualizará todos os conflitos gerados pela desistência de um agendamento. Este tomará uma ação no sentido de definir quem será o morador a ganhar o agendamento. Os dados apresentados serão os seguintes:
+ - Nomes dos moradores envolvidos
+ - Nome da dependência
+ - Data e hora do agendamento
+
+23 Edição de moradores pelo síndico - Essencial
+
+O usuário síndico poderá atualizar os dados de um morador pela visualização de moradores. Especificamente, os seguintes dados estarão disponíveis:
+ - Nome do morador
+ - Endereço de e-mail do morador
+ - Localização do morador (ex.: Bloco A Nº 505) - opcional
 
 ### Requisitos não-funcionais
 
