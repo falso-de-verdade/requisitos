@@ -189,3 +189,23 @@ Com essa filosofia, um usuário pode ser:
 3. Filosofia de conflitos - Importante
 
 O sistema não presume que a primeira pessoa a solicitar a ocupação será necessariamente aquela que será atendida; outros moradores poderão solicitar dependências que já tiveram a ocupação solicitada, e o síndico terá a capacidade de tratar esse conflito, seja aceitando qualquer uma das solicitações, seja alterando uma ou mais solicitações para compatibilizá-las.
+
+4. Acessível por um navegador - Essencial
+
+O sistema deve ser acessível por qualquer pessoa por meio da world wide web.
+
+5. Desenvolvido usando a linguagem Javascript - Importante
+
+Para uma melhor interação e fluidez para o usuário, deve-se usar uma linguagem dinâmica no navegador. Dessa forma faz-se obrigatório o uso da linguagem.
+
+6. Confidencialidade dos dados do usuário no acesso ao sistema - Importante
+
+Para garantir a confidencialidade das informações trocadas entre cliente e servidor, faz-se obrigatório que o sistema use um protocolo de comunicação que não exponha os dados do usuário.
+
+7. Confidencialidade da senha do usuário - Importante
+
+O sistema deve garantir que a senha criada pelo usuário não seja exposta, em nenhuma situação.
+
+8. Privacidade do usuário - Importante
+
+Os dados do usuário, contidos no sistema, devem estar disponíveis ao mesmo, sendo possível assim a exclusão imediata da conta junto com os dados do mesmo. 
