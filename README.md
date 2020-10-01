@@ -141,6 +141,9 @@ Um usuário síndico poderá remover um morador de um determinado condomínio, p
 
 Quando uma pessoa (um endereço de email) tem conta com os dois papéis, de síndico e morador, ele deve escolher qual papel assumir, após a tela de entrada de email e senha.
 
+20. Opção de usar usuário existente nos cadastros de morador e síndico
+
+Contemplando o requisito não-funcional nº 10, um usuário pode usar sua conta existente, provida de um único papel síndico ou morador, para se cadastrar a um novo papel. Uma opção nos cadastros tanto de morador como de síndico devem informar ao usuário para entrar com suas credenciais de acesso atuais, assim vinculando sua conta, anteriormente com um único papel, a um novo papel.
 
 #### Desejáveis
 Agora serão apresentados aqueles requisitos que melhoram a interaçao com usuário, mas não impactam diretamente nas funcionaliodades em si.
@@ -228,3 +231,7 @@ Para um usuário poder utilizar o sistema, deve atender às situações:
 - ter inserido email e senha corretos
 - possuir um papel válido (seja por ter escolhido um, seja por ser apenas morador/apenas síndico)
 - possuir um condomínio escolhido (seja por ter escolhido um, seja por estar associado a apenas um condomínio)
+
+10. Uma conta para dois papéis
+
+Dado um usuário qualquer no sistema, este pode exercer papéis diferentes (síndico ou morador) usando a mesma conta, ou melhor, as mesmas credenciais de acesso.
