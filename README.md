@@ -141,9 +141,6 @@ Um usuário síndico poderá remover um morador de um determinado condomínio, p
 
 Quando uma pessoa (um endereço de email) tem conta com os dois papéis, de síndico e morador, ele deve escolher qual papel assumir, após a tela de entrada de email e senha.
 
-20. Tela de escolha de condomínio
-
-Quando uma pessoa (um endereço de email) assume o mesmo papel em vários condomínios, ele deve escolher qual condomínio acessar, após a tela anterior (que pode ser a tela da senha, ou a tela de escolha do papel).
 
 #### Desejáveis
 Agora serão apresentados aqueles requisitos que melhoram a interaçao com usuário, mas não impactam diretamente nas funcionaliodades em si.
@@ -180,6 +177,10 @@ Tanto morador como síndico após terem seu acesso definido, podem optar por dei
 6. Lembrar seleção de condomínio
 
 Em relação ao requisito funcional 20, ("Tela de escolha de condomínio"), o usuário pode marcar uma seleção dizendo "não perguntar novamente", para que o sistema presuma que o usuário queira que o sistema sempre acesse o mesmo condomínio ao fazer login.
+
+7. Tela de escolha de condomínio
+
+Quando uma pessoa (um endereço de email) assume o mesmo papel em vários condomínios, ele deve escolher qual condomínio acessar, após a tela anterior (que pode ser a tela da senha, ou a tela de escolha do papel).
 
 ### Requisitos não-funcionais
 
