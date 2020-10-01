@@ -145,6 +145,10 @@ Quando uma pessoa (um endereço de email) tem conta com os dois papéis, de sín
 
 Contemplando o requisito não-funcional nº 10, um usuário pode usar sua conta existente, provida de um único papel síndico ou morador, para se cadastrar a um novo papel. Uma opção nos cadastros tanto de morador como de síndico devem informar ao usuário para entrar com suas credenciais de acesso atuais, assim vinculando sua conta, anteriormente com um único papel, a um novo papel.
 
+21. Morador remove sua estadia no condomínio
+
+O morador tem o poder de decidir até quando deseja manter sua relação de estadia com um certo condomínio, sendo possível assim a remoção do mesmo do condomínio. Por exemplo no caso de uma transferência para outro condomínio, o morador pode de forma autônoma realizar sua saída.
+
 #### Desejáveis
 Agora serão apresentados aqueles requisitos que melhoram a interaçao com usuário, mas não impactam diretamente nas funcionaliodades em si.
 
