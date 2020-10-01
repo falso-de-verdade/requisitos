@@ -137,6 +137,14 @@ O usuário síndico poderá atualizar os dados de um morador pela visualização
 
 Um usuário síndico poderá remover um morador de um determinado condomínio, pela visualização de moradores.
 
+19. Tela de escolha de papel
+
+Quando uma pessoa (um endereço de email) tem conta com os dois papéis, de síndico e morador, ele deve escolher qual papel assumir, após a tela de entrada de email e senha.
+
+20. Tela de escolha de condomínio
+
+Quando uma pessoa (um endereço de email) assume o mesmo papel em vários condomínios, ele deve escolher qual condomínio acessar, após a tela anterior (que pode ser a tela da senha, ou a tela de escolha do papel).
+
 #### Desejáveis
 Agora serão apresentados aqueles requisitos que melhoram a interaçao com usuário, mas não impactam diretamente nas funcionaliodades em si.
 
@@ -209,3 +217,10 @@ O sistema deve garantir que a senha criada pelo usuário não seja exposta, em n
 8. Privacidade do usuário - Importante
 
 Os dados do usuário, contidos no sistema, devem estar disponíveis ao mesmo, sendo possível assim a exclusão imediata da conta junto com os dados do mesmo. 
+
+9. Exigências do login - Essencial
+
+Para um usuário poder utilizar o sistema, deve atender às situações:
+- ter inserido email e senha corretos
+- possuir um papel válido (seja por ter escolhido um, seja por ser apenas morador/apenas síndico)
+- possuir um condomínio escolhido (seja por ter escolhido um, seja por estar associado a apenas um condomínio)
