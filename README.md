@@ -177,6 +177,9 @@ O usuário terá acesso a uma página para efetuar a troca da senha, sendo que e
 
 Tanto morador como síndico após terem seu acesso definido, podem optar por deixar suas credenciais salvas e não precisarem mais digitar seu login e senha para acessar o sistema.
 
+6. Lembrar seleção de condomínio
+
+Em relação ao requisito funcional 20, ("Tela de escolha de condomínio"), o usuário pode marcar uma seleção dizendo "não perguntar novamente", para que o sistema presuma que o usuário queira que o sistema sempre acesse o mesmo condomínio ao fazer login.
 
 ### Requisitos não-funcionais
 
